@@ -6,3 +6,4 @@ Writeups of CTF competitions that I participated in 2024
 
 - [x] [Hitcon CTF 2024](https://ctf2024.hitcon.org/)
 - [x] [Imaginary CTF 2024](https://2024.imaginaryctf.org/index.html)
+- [x] [CTFZone 2024](https://ctf.bi.zone/)
